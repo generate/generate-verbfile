@@ -1,5 +1,19 @@
 # generate-verbfile docs
 
+- [CLI Usage](#cli-usage)
+  * [Running tasks](#running-tasks)
+  * [Available tasks](#available-tasks)
+- [API usage](#api-usage)
+  * [Install locally](#install-locally)
+  * [Use as a plugin](#use-as-a-plugin)
+  * [Register as a generator](#register-as-a-generator)
+- [Running multiple generators](#running-multiple-generators)
+  * [generate-install](#generate-install)
+  * [generate-dest](#generate-dest)
+- [Customization](#customization)
+  * [Destination directory](#destination-directory)
+  * [Overriding templates](#overriding-templates)
+
 ## CLI Usage
 
 ### Running tasks
