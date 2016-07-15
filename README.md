@@ -4,9 +4,6 @@
 
 ![generate-verbfile demo](https://raw.githubusercontent.com/generate/generate-verbfile/master/demo.gif)
 
-<br>
-<br>
-
 ## Table of Contents
 
 - [What is "Generate"?](#what-is-generate)
