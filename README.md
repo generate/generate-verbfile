@@ -27,7 +27,6 @@ For more information about Generate:
 * Find [generators on npm](https://www.npmjs.com/browse/keyword/generate-generator) (help us [author generators](https://github.com/generate/generate/blob/master/docs/micro-generators.md))
 
 <br>
-<br>
 
 ## Command line usage
 
@@ -86,6 +85,8 @@ To see a general help menu and available commands for Generate's CLI, run:
 ```sh
 $ gen help
 ```
+
+<br>
 
 ## Next steps
 

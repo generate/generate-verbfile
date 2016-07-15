@@ -40,7 +40,6 @@ $ gen verbfile --dest ./docs
 Visit Generate's [documentation for tasks](https://github.com/generate/generate/blob/master/docs/tasks.md).
 
 <br>
-<br>
 
 ## API usage
 
@@ -128,6 +127,8 @@ module.exports = function(app) {
 
 Visit the [generator docs](https://github.com/generate/generate/blob/master/docs/generators.md) to learn more about creating, installing, using and publishing generators.
 
+<br>
+
 ## Running multiple generators
 
 Generate supports running multiple generators at once. Here are some examples of other generators that work well with `generate-verbfile`.
@@ -148,7 +149,6 @@ Run [generate-dest](https://github.com/generate/generate-dest) **before** this g
 
 ![generate-verbfile generate-dest example](https://raw.githubusercontent.com/generate/generate-verbfile/master/docs/demo-dest.gif)
 
-<br>
 <br>
 
 ## Customization
