@@ -19,7 +19,7 @@
   "main": "generator.js",
   "preferGlobal": true,
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.0"
   },
   "scripts": {
     "test": "mocha"
@@ -96,12 +96,12 @@
       ]
     },
     "reflinks": [
-      "verb",
-      "gulp",
-      "base",
       "assemble",
+      "base",
       "generate",
-      "generate-dest"
+      "generate-dest",
+      "gulp",
+      "verb"
     ],
     "lint": {
       "reflinks": true
